@@ -1,6 +1,6 @@
 baseURL = 'https://rekitralph.github.io/recipedatabase/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Recipe Database'
 theme = 'hugo-book'
 
 

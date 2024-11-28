@@ -1,6 +1,6 @@
 {
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
+  "name": "Recipe Database",
+  "short_name": "Recipe Database",
   "start_url": "/recipedatabase/",
   "scope": "/recipedatabase/",
   "display": "standalone",
