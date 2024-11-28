@@ -3,6 +3,19 @@ date = '2024-11-26T15:15:10-06:00'
 title = 'Test'
 +++
 
+<div class="panel-heading">
+  <h3 class="panel-title">{{ $title }}</h3>
+</div>
+
+<div class="panel-body">
+    <ul class="nav nav-pills nav-stacked">
+      {{ range (where .Site.RegularPages.ByTitle "Section" $section ) }}
+        <li><a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>
+      {{ end }}
+    </ul>
+</div>
+
+
 # test words
 
 
