@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/recipedatabase/sw.js",{scope:"/recipedatabase/"})
