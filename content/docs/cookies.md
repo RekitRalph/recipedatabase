@@ -2,7 +2,7 @@
 
 > Toll house cookie recipe [link](https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/)
 
-![cookies](images/cookies.jpg)
+![cookies picture](/images/cookies.jpg)
 
 ## Ingredients
 
